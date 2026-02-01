@@ -19,7 +19,6 @@ If you want access, a walkthrough, or a demo, reach out.
 - Reference examples for client-side routing in React
 - Covers basic routing patterns and structure
 - Intended to show approach, not ship a full app
-
 ---
 
 ## What This Is Not
